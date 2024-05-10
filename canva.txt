@@ -7,7 +7,7 @@
 
 ! Title: Canva uBlock Filter
 ! Homepage: https://github.com/KwiatekMiki/uBlockFilters
-! Last modified: Fri, 10 May 2024 21:23:25 +0000
+! Last modified: Fri, 10 May 2024 22:15:07 +0000
 
 ! main page
 
@@ -15,6 +15,8 @@
 www.canva.com##.Rz974w
 ! WHO EVEN CARES ABOUT CANVA CREATE
 www.canva.com##.iBrz7Q.Uq9bbQ._9Mb__A.I7zxgw
+! did they really... (need to add a pop up for this)
+www.canva.com##._9HetvA
 ! no i dont want to try
 www.canva.com##._6iuCOw.SfVr3Q
 ! what no one would design 2day
