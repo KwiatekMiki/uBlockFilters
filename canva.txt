@@ -1,0 +1,149 @@
+!  .o88b.  .d8b.  d8b   db db    db  .d8b.           ______  _             _           ___ _ _                   
+! d8P  Y8 d8' `8b 888o  88 88    88 d8' `8b         ( ___  \| |           | |         / __|_) |  _               
+! 8P      88ooo88 88V8o 88 Y8    8P 88ooo88    _   _|____)  ) | ___   ____| |  _    _| |__ _| |_| |_ _____  ____ 
+! 8b      88~~~88 88 V8o88 `8b  d8' 88~~~88   | | | |  __  (| |/ _ \ / ___) |_/ )  (_   __) | (_   _) ___ |/ ___)
+! Y8b  d8 88   88 88  V888  `8bd8'  88   88   | |_| | |__)  ) | |_| ( (___|  _ (     | |  | | | | |_| ____| |    
+!  `Y88P' YP   YP VP   V8P    YP    YP   YP   |____/|______/ \_)___/ \____)_| \_)    |_|  |_|\_) \__)_____)_|    
+
+! Title: Canva uBlock Filter
+! Homepage: https://github.com/KwiatekMiki/uBlockFilters
+! Last modified: Fri, 10 May 2024 21:23:25 +0000
+
+! main page
+
+! left bar, useless.
+www.canva.com##.Rz974w
+! WHO EVEN CARES ABOUT CANVA CREATE
+www.canva.com##.iBrz7Q.Uq9bbQ._9Mb__A.I7zxgw
+! no i dont want to try
+www.canva.com##._6iuCOw.SfVr3Q
+! what no one would design 2day
+www.canva.com##.s5aCnQ
+! help button doesnt help
+www.canva.com##.Q3Xvzg
+! useless 'settings'
+www.canva.com##li._9Mb__A.k__oiw:nth-of-type(2)
+www.canva.com##li._9Mb__A.k__oiw:nth-of-type(3)
+www.canva.com##li._9Mb__A.k__oiw:nth-of-type(4)
+www.canva.com##li._9Mb__A.k__oiw:nth-of-type(5)
+www.canva.com##li._9Mb__A.k__oiw:nth-of-type(6)
+! dont show email
+www.canva.com##.fs-hide.f4qJng.CyZb_A > .GHIRjw._bsk3w._5Ob_nQ._5RSqIg
+www.canva.com##.QUImvA.GHIRjw.KzArew._5Ob_nQ._5RSqIg
+www.canva.com##.NvaaRg.T3uz5Q > .uLt0uw > .l864gg > .GHIRjw.fM_HdA._5Ob_nQ.fFOiLQ
+! does anyone even use that?
+www.canva.com##.mRLVxw.DwB3TQ.B74wyQ
+! it doesn't even work now lol
+www.canva.com##.mRLVxw.DwB3TQ.SV0IxQ
+! search's useless, /projects still exists.
+www.canva.com##.s5hqTw._7r5TJw.c7zhBg.KbQ1bQ.Wrk03w
+! settings are when you click your icon, desktop app... just use google and you have ZERO notifications (i think)
+www.canva.com##.DwB3TQ.pvf_dg
+! we all know that we are on canva
+||static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg$image
+
+! /projects now!
+
+! JUST, LOOK AT THE URL!!!!
+www.canva.com##.QmIKVQ._s884g.JUse7A
+
+! now /design/*/edit
+
+! premium stuff
+! resize magic thing
+www.canva.com##.VOvjeA.J3FTYg.uRvRjQ.zQlusQ.cwOZMg.lsXp_w.YPTJew.Eph8Hg.o4TrkA.tYI0Vw.Qkd66A._1QoxDw
+
+! too lazy to comment this
+www.canva.com##.gA0kig._8drCYA._2WzgFw > div.gA0kig:nth-of-type(4)
+www.canva.com##div.aZZCww:nth-of-type(3) > .nsTGAA > div.MRpFjg:nth-of-type(10)
+www.canva.com##.SjHd4g
+||template.canva.com/EAGDHt0NBfE/1/0/244w-NbtQZt3YFv0.png$image
+||template.canva.com/EAGEmG_Z1Mg/1/0/430w-YFscvz-ffps.png$image
+||template.canva.com/EAGDHrd5Rnw/1/0/772w-RhsKspMzj7E.png$image
+||template.canva.com/EAGDH-ndtLg/1/0/600w-MjVr6j4hHUc.png$image
+||template.canva.com/EAGDHwil-AQ/1/0/694w-QNhdmEfw0CE.png$image
+||template.canva.com/EAGDHnPkYck/1/0/258w-u_gFxjmMq6U.png$image
+||template.canva.com/EAGDHjlsVwE/1/0/232w-0_j4rDqLB5M.png$image
+||template.canva.com/EAGDHwCxj2g/1/0/212w-9XpKoW2qvzw.png$image
+||template.canva.com/EAGDH_veAkY/1/0/330w-Rk1wFStTSt0.png$image
+||template.canva.com/EAFxkGCC_NY/2/0/752w-KupTMbHCmNY.png$image
+||template.canva.com/EAGEmF7Ewco/1/0/350w-u7dGl5JXp0g.png$image
+||template.canva.com/EAGDH3gJrew/1/0/270w-Y0J3YbF48aY.png$image
+||template.canva.com/EAGDH1yuKSk/1/0/294w-_5UQ3dDiCKY.png$image
+||template.canva.com/EAGDHqd92QM/1/0/232w-dne4PQ3Xaew.png$image
+||template.canva.com/EAGDH5k-G4s/1/0/234w-Z969cw87J38.png$image
+||template.canva.com/EAGDHt5hxSk/1/0/264w-2Qu53QS9Dn4.png$image
+||template.canva.com/EAGDHknJa-E/1/0/772w-YFyGyFgzIzE.png$image
+||template.canva.com/EAGEx-n-GJM/1/0/792w-t9SZxLMaEz0.png$image
+||template.canva.com/EAGDHuUo8No/1/0/618w-w6VJAUOEHlY.png$image
+||template.canva.com/EAGDHw0W7cY/1/0/270w-n8hHep_1KrI.png$image
+||template.canva.com/EAGDH5uKsco/1/0/492w-frL8ZBrQ3gI.png$image
+||template.canva.com/EAGDH03ZKLY/1/0/206w--JHnUZlHJdc.png$image
+||template.canva.com/EAGDMMlLFUw/1/0/404w-UWaBezZdaMs.png$image
+||template.canva.com/EAGDH1b6W44/1/0/214w-GIM1eyjUop8.png$image
+||template.canva.com/EAGEsAzACRs/1/0/724w-WqFPg-wI7gU.png$image
+||template.canva.com/EAGDH4EAmxM/1/0/750w-bZQxuCowUKE.png$image
+||template.canva.com/EAGDH1FepAU/1/0/244w-LWEsn2b8lC4.png$image
+||template.canva.com/EAFxq-Xw3M8/1/0/792w-Hg0CDae4iAg.png$image
+||template.canva.com/EAFxkAb7ZDg/1/0/764w-P1_3ZnJYLvk.png$image
+||template.canva.com/EAFxkNLL-Ls/1/0/402w-JD-_H-kaUZk.png$image
+||template.canva.com/EAFxqwv9pz0/1/0/328w-YVW6sFVF6js.png$image
+||template.canva.com/EAF0S2A-d38/1/0/368w-5OWF90SlqWk.png$image
+||template.canva.com/EAEB6erw2UY/1/0/378w-o2Gyk4VoOuI.png$image
+||template.canva.com/EAEB6b9Ce_w/1/0/370w-TUm2Q7zwIt0.png$image
+||template.canva.com/EAFxq1CUz10/1/0/792w-QTA1DqZ51fA.png$image
+||template.canva.com/EAFxkXTPsmM/1/0/756w-SSvOM7-uY_Q.png$image
+||template.canva.com/EAEB6TPp4PA/1/0/366w-jBI5gK3hcVc.png$image
+||template.canva.com/EAEB6eatUzo/1/0/374w-a3aiB8KdhIg.png$image
+||template.canva.com/EAEB6TMeq3o/1/0/282w-tXSP3Px6mxs.png$image
+||template.canva.com/EAF0Tyx2j0M/1/0/370w-Gc5-rPzi0Kw.png$image
+||template.canva.com/EAEB6fKoJnY/4/0/356w-NtyI1gglZPU.png$image
+||template.canva.com/EAFxq4X7ams/1/0/316w-5YNt4PZR8o4.png$image
+||template.canva.com/EAF0S0OO1XU/1/0/374w-tNR0NKPO9jc.png$image
+||template.canva.com/EAFxq82yiWQ/1/0/434w-974wkDodhns.png$image
+||template.canva.com/EAEB6dhKZrQ/1/0/764w-fyUBP6eGpxs.png$image
+||template.canva.com/EAEB6UXanWM/1/0/760w-B9mPimpD12s.png$image
+||template.canva.com/EAFxq5A2rQg/1/0/768w-HTXSrmQiqHg.png$image
+||template.canva.com/EAFxkHkJRnA/1/0/480w--GeC7NlL3p4.png$image
+||template.canva.com/EAEB6YrxJMw/1/0/368w-cZRSUt218no.png$image
+||template.canva.com/EAEB6XzOui0/1/0/500w-5y6EXAdOdYY.png$image
+||template.canva.com/EAEB6XqobeI/1/0/354w-v-amYQ8x4Mg.png$image
+||template.canva.com/EAF0S_wExTo/1/0/362w-S9f4BmB7zQQ.png$image
+||template.canva.com/EAEB6YMgSVM/1/0/376w-8UYHrKT_cZo.png$image
+||template.canva.com/EAF0SxzE9fk/1/0/442w-tDk8cLXsNsY.png$image
+||template.canva.com/EAFxkSKFIyM/1/0/784w-HV6PQq6W2aM.png$image
+||template.canva.com/EAF0S3nBvtI/1/0/428w-NKhsQo_EDHU.png$image
+||template.canva.com/EAEB6Uddcpk/1/0/330w-WTnzfNyULPU.png$image
+||template.canva.com/EAF0S89Xg4c/1/0/418w-CFQEHqgNcOg.png$image
+||template.canva.com/EAF0S0V52Zs/1/0/442w-9gdApeby5jQ.png$image
+||template.canva.com/EAF0S-wRj84/1/0/770w-2Mz1Nnx9w7g.png$image
+||template.canva.com/EAF0SxRxk1M/1/0/346w-QAiwpvYA_a8.png$image
+||template.canva.com/EAF0S70QdBI/1/0/320w-dTzpqAMscVI.png$image
+||template.canva.com/EAFxq4uv8Bk/1/0/786w-JlgDJNqsOkU.png$image
+||template.canva.com/EAFxq56qMtE/1/0/380w-WuDUzri10Ao.png$image
+||template.canva.com/EAFxqxoNkeQ/1/0/380w-jSrKHKaffd8.png$image
+||template.canva.com/EAEB6ZLOM6c/1/0/480w-soV7xOrllQY.png$image
+||template.canva.com/EAEB6RdvJ0w/1/0/382w-dudoNXs4t9w.png$image
+! www.canva.com##.T5OikA._9QQlWw._45rcUQ.ceY7zQ.yAhYLw
+! try pro for 30 days button
+www.canva.com##div.KrwCoQ.gA0kig:nth-of-type(2)
+
+! brand kit
+www.canva.com###\:r15\: > ._38oWvQ > .wkRZHg
+www.canva.com##.Zn4wHw
+www.canva.com##.x6XCCg > div._9Mb__A.yM2vlg
+www.canva.com##div.yYw_FA > .JyB_vw
+
+! print with canva
+www.canva.com##.gA0kig._8drCYA._2WzgFw > div.gA0kig:nth-of-type(5)
+www.canva.com##div.MRpFjg:nth-of-type(1)
+
+! tutorial
+www.canva.com##._1aH35Q
+
+! img gen premium mentions
+www.canva.com##.z2oZFw.dIH_FQ [href="#"]
+www.canva.com##.Zxv8Qg.yYw_FA > .yuY9DQ > .dkWypw.uRWxVA.adYDwg.qkInqQ > svg
+
+! audio is only premium (i might not noticed something)
+www.canva.com##div.OMICSQ:nth-of-type(7)
