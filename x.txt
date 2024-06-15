@@ -1,0 +1,46 @@
+! Title: X/Twitter Improvements
+! Homepage: https://github.com/KwiatekMiki/uBlockFilters
+! Last modified: Sat, 15 Jun 2024 18:18:48 +0200
+
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r > .css-175oi2r > .css-175oi2r
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(5)
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+x.com##.r-1nao33i.r-m6rgpd.r-lrvibr.r-bnwqim.r-dnmrzs.r-1xvli5t.r-yyyyoo.r-4qtqp9
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("iveawa")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("IVEAWA")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("ompeti")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("OMPETI")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("eatin")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("EATIN")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("yeah")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("Yeah")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("YEAH")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("ave"):has-text("ast")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("AVE"):has-text("AST")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("ast"):has-text("aved"):has-text("ic")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("AST"):has-text("AVED"):has-text("IC")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("ast"):has-text("aved"):has-text("mag")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("AST"):has-text("AVED"):has-text("MAG")
+x.com##button[aria-label="Share post"]
+x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(2)
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(1)
+x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(5)
+x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(2)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(2)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(4)
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(4) > .r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-dnmrzs.r-16y2uox.css-175oi2r > .r-3pj75a.r-w7s2jr.r-16y2uox.r-18u37iz.r-1awozwy.css-175oi2r
+x.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(3)
+x.com##.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r
+x.com##a.r-1loqt21.r-faml9v.r-1xuzw63.r-16dba41.r-1cwl3u0.r-n6v787.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1:nth-of-type(4) > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
+x.com##body:has(div[aria-label="Home timeline"]):has(.public-DraftStyleDefault-ltr.public-DraftStyleDefault-block) .r-12kyg2d.r-e7q0ms.css-175oi2r
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+x.com##.r-1559e4e.r-dnmrzs.css-175oi2r
+x.com##div.r-faml9v.r-1xuzw63.r-16dba41.r-1cwl3u0.r-n6v787.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1 > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
+x.com##.r-faml9v.r-1xuzw63.r-1loqt21.css-175oi2r
+x.com##.r-1ye8kvj:style(max-width: none !important;)
+x.com##header[role="banner"]:style(max-width: 30% !important;)
+x.com##div[data-testid="sidebarColumn"]:style(padding-left: 10px !important;)
+x.com##.css-175oi2r > .css-175oi2r.r-1kqtdi0.r-1phboty.r-rs99b7.r-1867qdf.r-1udh08x.r-o7ynqc.r-6416eg.r-1ny4l3l:style(max-width: 50% !important;)
