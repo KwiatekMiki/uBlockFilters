@@ -24,6 +24,8 @@ x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-tex
 x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("AST"):has-text("AVED"):has-text("IC")
 x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("ast"):has-text("aved"):has-text("mag")
 x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("AST"):has-text("AVED"):has-text("MAG")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("rivat"):has-text("ou"):has-text("ree"):has-text("ike"):has-text("his")
+x.com##div[data-testid="cellInnerDiv"]:has(article[data-testid="tweet"]):has-text("RIVAT"):has-text("OU"):has-text("REE"):has-text("IKE"):has-text("HIS")
 x.com##button[aria-label="Share post"]
 x.com##div.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.r-1loqt21.css-175oi2r:nth-of-type(2)
 x.com##a.r-1loqt21.r-1ny4l3l.r-6416eg.r-o7ynqc.r-13qz1uu.r-3pj75a.r-1mmae3n.r-18u37iz.css-175oi2r:nth-of-type(1)
