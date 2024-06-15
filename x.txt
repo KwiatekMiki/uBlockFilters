@@ -1,6 +1,6 @@
 ! Title: X/Twitter Improvements
 ! Homepage: https://github.com/KwiatekMiki/uBlockFilters
-! Last modified: Sat, 15 Jun 2024 18:18:48 +0200
+! Last modified: Sat, 15 Jun 2024 19:29:16 +0200
 
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r > .css-175oi2r > .css-175oi2r
@@ -43,4 +43,4 @@ x.com##.r-faml9v.r-1xuzw63.r-1loqt21.css-175oi2r
 x.com##.r-1ye8kvj:style(max-width: none !important;)
 x.com##header[role="banner"]:style(max-width: 30% !important;)
 x.com##div[data-testid="sidebarColumn"]:style(padding-left: 10px !important;)
-x.com##.css-175oi2r > .css-175oi2r.r-1kqtdi0.r-1phboty.r-rs99b7.r-1867qdf.r-1udh08x.r-o7ynqc.r-6416eg.r-1ny4l3l:style(max-width: 50% !important;)
+x.com##[id^="id"] > .r-9aw3ui.css-175oi2r:style(max-width: 50% !important;)
